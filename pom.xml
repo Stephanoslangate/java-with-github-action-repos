@@ -51,6 +51,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>springboot-images-cicd-stephanos</finalName>
 	</build>
 	<repositories>
 		<repository>
